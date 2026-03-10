@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sakshi</h1>
-<h3 align="center">Full Stack Developer | Java | Angular | Building Scalable Web Applications</h3>
+<h3 align="center">Full Stack Developer | Java | Angular | .Net | React | Building Scalable Web Applications</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+%7C+Angular+%7C+Cloud;Passionate+About+Building+Software;Always+Learning+New+Technologies&center=true&width=500&height=50">
@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 
 • Software developer passionate about building reliable and scalable applications  
-• Enjoy working across the full stack — from backend systems to user interfaces  
+• Enjoy working across the full stack, from backend systems to user interfaces  
 • Interested in clean architecture, maintainable code, and real-world software systems  
 • Always curious about how large systems work behind the scenes  
 • Enjoy learning new technologies and improving development workflows  
