@@ -23,26 +23,6 @@
 <img src="https://skillicons.dev/icons?i=java,angular,nodejs,react,js,ts,python,csharp,mysql,mongodb,azure,docker,git" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshipatel3&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshipatel3&theme=tokyonight)
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipatel3&theme=tokyo-night)
-
----
-
 ## ⭐ Featured Work
 
 🔹 Building full-stack web applications using modern frameworks  
