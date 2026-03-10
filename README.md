@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Sakshi Patel</h1>
+<h1 align="center">Hi 👋 I'm Sakshi</h1>
 <h3 align="center">Full Stack Developer | Java | Angular | Building Scalable Web Applications</h3>
 
 <p align="center">
