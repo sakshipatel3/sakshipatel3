@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Java | Angular | .Net | React | Building Scalable Web Applications</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+%7C+Angular+%7C+Cloud;Passionate+About+Building+Software;Always+Learning+New+Technologies&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+%7C+Angular%7C+.Net%7C+React+%7C+Cloud;Passionate+About+Building+Software;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
 ---
